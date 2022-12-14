@@ -1,0 +1,87 @@
+<head>
+	<script src='https://cdn.plot.ly/plotly-2.14.0.min.js'></script>
+</head>
+
+<body>
+	<div id='myDiv' style="width=300px;"/>
+    <script>
+  
+    var trace = [{
+  x: [0, 30, 60, 90, 120],
+  y: [100, 96, 104, 130,110],
+  mode: 'lines+markers',
+  marker: {
+    symbol: "cross",
+    color: 'rgb(219, 64, 82)',
+    size: 20
+  },
+  line: {
+    dash: 'dash',
+    width: 3
+  }
+}];
+
+  
+
+ 
+
+var layout = {  
+  autosize: true,
+  width: 500,
+  height: 400,
+   margin: {
+    l: 70,
+    r: 0,
+    b: 40,
+    t: 10
+  },
+  xaxis: {
+    range: [0, 130],
+    showgrid: true,
+    tick0: 0,
+    dtick: 15,
+    ticks: 'outside',
+    tickcolor: '#000',
+    minor: {
+      ticks: 'inside',
+      showgrid: true,
+      ticklen: 6,
+      tickcolor: 'black'
+    },
+    title: {
+      text: 'Temps (en minutes)',
+      font: {
+        family: 'Arial',
+        size: 18,
+        color: '#7f7f7f'
+      }
+    }
+  },
+  yaxis: {    
+    range: [70, 150],
+    showgrid: true,
+    tick0: 0,
+    dtick: 10,
+    ticks: 'outside',
+    tickcolor: '#000',
+    minor: {
+      ticks: 'inside',
+      showgrid: true,
+      ticklen: 2,
+      tickcolor: 'black'
+    },
+     title: {
+      text: 'Taux de dopamine (in %)',
+      font: {
+        family: 'Arial',
+        size: 18,
+        color: '#7f7f7f'
+      }
+    }
+  }
+};
+
+Plotly.newPlot('myDiv', trace, layout, {displayModeBar: false});
+
+  </script>
+</body>

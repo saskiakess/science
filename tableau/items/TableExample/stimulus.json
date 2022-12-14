@@ -1,0 +1,15 @@
+{
+  "runtimeCompatibilityVersion" : "9.8.0",
+  "itemName" : "TableExample",
+  "itemWidth" : 1024,
+  "itemHeight" : 768,
+  "tasks" : [ "Task01" ],
+  "resources" : [ ],
+  "externalResources" : [ {
+    "pathInZip" : "external-resources\\example.html",
+    "size" : 1458,
+    "type" : "urlTarget"
+  } ],
+  "dependencies" : [ ],
+  "variables" : [ ]
+}
