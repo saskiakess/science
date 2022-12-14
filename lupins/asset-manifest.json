@@ -1,20 +1,16 @@
 {
   "files": {
-    "main.css": "/ee4pci/static/css/main.8e35ff7e.chunk.css",
-    "main.js": "/ee4pci/static/js/main.3e4adba8.chunk.js",
-    "main.js.map": "/ee4pci/static/js/main.3e4adba8.chunk.js.map",
-    "runtime-main.js": "/ee4pci/static/js/runtime-main.14a49d7b.js",
-    "runtime-main.js.map": "/ee4pci/static/js/runtime-main.14a49d7b.js.map",
-    "static/js/2.c76b525c.chunk.js": "/ee4pci/static/js/2.c76b525c.chunk.js",
-    "static/js/2.c76b525c.chunk.js.map": "/ee4pci/static/js/2.c76b525c.chunk.js.map",
-    "index.html": "/ee4pci/index.html",
-    "static/css/main.8e35ff7e.chunk.css.map": "/ee4pci/static/css/main.8e35ff7e.chunk.css.map",
-    "static/js/2.c76b525c.chunk.js.LICENSE.txt": "/ee4pci/static/js/2.c76b525c.chunk.js.LICENSE.txt"
+    "main.css": "/science/lupins/static/css/main.f8610f8c.chunk.css",
+    "main.js": "/science/lupins/static/js/main.5adbf1f9.chunk.js",
+    "runtime-main.js": "/science/lupins/static/js/runtime-main.70148718.js",
+    "static/js/2.c76b525c.chunk.js": "/science/lupins/static/js/2.c76b525c.chunk.js",
+    "index.html": "/science/lupins/index.html",
+    "static/js/2.c76b525c.chunk.js.LICENSE.txt": "/science/lupins/static/js/2.c76b525c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.14a49d7b.js",
+    "static/js/runtime-main.70148718.js",
     "static/js/2.c76b525c.chunk.js",
-    "static/css/main.8e35ff7e.chunk.css",
-    "static/js/main.3e4adba8.chunk.js"
+    "static/css/main.f8610f8c.chunk.css",
+    "static/js/main.5adbf1f9.chunk.js"
   ]
 }

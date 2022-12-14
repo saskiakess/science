@@ -1,0 +1,110 @@
+{
+  "runtimeCompatibilityVersion" : "9.7.0",
+  "itemName" : "science",
+  "itemWidth" : 1024,
+  "itemHeight" : 768,
+  "tasks" : [ "Task01" ],
+  "resources" : [ {
+    "pathInZip" : "resources\\out1.fw.png",
+    "size" : 116055,
+    "type" : "image"
+  }, {
+    "pathInZip" : "resources\\out2.fw.png",
+    "size" : 179760,
+    "type" : "image"
+  }, {
+    "pathInZip" : "resources\\temperature.fw.png",
+    "size" : 54809,
+    "type" : "image"
+  }, {
+    "pathInZip" : "resources\\recommencer.fw.png",
+    "size" : 61498,
+    "type" : "image"
+  }, {
+    "pathInZip" : "resources\\arrow.fw.png",
+    "size" : 60115,
+    "type" : "image"
+  }, {
+    "pathInZip" : "resources\\validate_page2_deactivated.fw.png",
+    "size" : 61733,
+    "type" : "image"
+  }, {
+    "pathInZip" : "resources\\validate_page1_deactivated.fw.png",
+    "size" : 63112,
+    "type" : "image"
+  }, {
+    "pathInZip" : "resources\\fertilizer.fw.png",
+    "size" : 74381,
+    "type" : "image"
+  }, {
+    "pathInZip" : "resources\\rhizobium_bacteria.fw.png",
+    "size" : 91702,
+    "type" : "image"
+  }, {
+    "pathInZip" : "resources\\base.fw.png",
+    "size" : 98055,
+    "type" : "image"
+  }, {
+    "pathInZip" : "resources\\validate_page1.fw.png",
+    "size" : 63602,
+    "type" : "image"
+  }, {
+    "pathInZip" : "resources\\validate_page2.fw.png",
+    "size" : 62656,
+    "type" : "image"
+  } ],
+  "externalResources" : [ ],
+  "dependencies" : [ ],
+  "variables" : [ {
+    "name" : "V_Fertilizer",
+    "type" : "integer"
+  }, {
+    "name" : "V_Rhizobium_Bacteria",
+    "type" : "integer"
+  }, {
+    "name" : "V_Delete",
+    "type" : "integer"
+  }, {
+    "name" : "V_Batch1_1",
+    "type" : "integer"
+  }, {
+    "name" : "V_Batch1_2",
+    "type" : "integer"
+  }, {
+    "name" : "V_Batch2_1",
+    "type" : "integer"
+  }, {
+    "name" : "V_Batch2_2",
+    "type" : "integer"
+  }, {
+    "name" : "V_Batch3_1",
+    "type" : "integer"
+  }, {
+    "name" : "V_Batch3_2",
+    "type" : "integer"
+  }, {
+    "name" : "V_Batch1_Out",
+    "type" : "integer"
+  }, {
+    "name" : "V_Batch2_Out",
+    "type" : "integer"
+  }, {
+    "name" : "V_Batch3_Out",
+    "type" : "integer"
+  }, {
+    "name" : "V_Bac1_Selection",
+    "type" : "integer"
+  }, {
+    "name" : "V_Bac2_Selection",
+    "type" : "integer"
+  }, {
+    "name" : "V_Bac3_Selection",
+    "type" : "integer"
+  }, {
+    "name" : "V_TrialCounter",
+    "type" : "integer"
+  }, {
+    "name" : "V_Page2",
+    "type" : "integer"
+  } ]
+}
