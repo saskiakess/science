@@ -1,0 +1,15 @@
+{
+  "runtimeCompatibilityVersion" : "9.8.0",
+  "itemName" : "Dopamine_et_sensation_de_plaisir",
+  "itemWidth" : 1024,
+  "itemHeight" : 768,
+  "tasks" : [ "Task01" ],
+  "resources" : [ ],
+  "externalResources" : [ {
+    "pathInZip" : "external-resources\\example.html",
+    "size" : 1544,
+    "type" : "urlTarget"
+  } ],
+  "dependencies" : [ ],
+  "variables" : [ ]
+}
