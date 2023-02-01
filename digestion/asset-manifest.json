@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/science/digestion/static/css/main.f8610f8c.chunk.css",
+    "main.js": "/science/digestion/static/js/main.5adbf1f9.chunk.js",
+    "runtime-main.js": "/science/digestion/static/js/runtime-main.10e5f4f4.js",
+    "static/js/2.c76b525c.chunk.js": "/science/digestion/static/js/2.c76b525c.chunk.js",
+    "index.html": "/science/digestion/index.html",
+    "static/js/2.c76b525c.chunk.js.LICENSE.txt": "/science/digestion/static/js/2.c76b525c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10e5f4f4.js",
+    "static/js/2.c76b525c.chunk.js",
+    "static/css/main.f8610f8c.chunk.css",
+    "static/js/main.5adbf1f9.chunk.js"
+  ]
+}

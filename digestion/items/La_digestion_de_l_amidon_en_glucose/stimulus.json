@@ -1,0 +1,11 @@
+{
+  "runtimeCompatibilityVersion" : "9.8.0",
+  "itemName" : "La_digestion_de_l_amidon_en_glucose",
+  "itemWidth" : 1024,
+  "itemHeight" : 768,
+  "tasks" : [ "Task01" ],
+  "resources" : [ ],
+  "externalResources" : [ ],
+  "dependencies" : [ ],
+  "variables" : [ ]
+}
